@@ -8,7 +8,7 @@ Requisitos previos:
 
 
 Clonar el repositorio:
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/danielagudelo11/pedidos.git
 
 
 Construcción y ejecución del proyecto
